@@ -6,4 +6,6 @@
 
 Update, since January 23, 2022 I decided to learn C instead :D
 
+Israel 🇮🇱
+
 idk what else to put here :D
