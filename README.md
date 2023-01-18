@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning NextJS<br>🎯 Goals: NextJS unnecessarily secure authentication system<br>🎲 Fun fact: 2-1 = 1</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Nothing<br>🎯 Goals: Nothing<br>🎲 Fun fact: 2-1 = 1</p>
 
 ###
 
